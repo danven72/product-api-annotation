@@ -1,4 +1,4 @@
-package com.wiredbraincoffee.productapiannotation.controller;
+package com.wiredbraincoffee.productapiannotation.model;
 
 import java.util.Objects;
 

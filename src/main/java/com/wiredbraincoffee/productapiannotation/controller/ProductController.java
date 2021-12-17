@@ -1,6 +1,7 @@
 package com.wiredbraincoffee.productapiannotation.controller;
 
 import com.wiredbraincoffee.productapiannotation.model.Product;
+import com.wiredbraincoffee.productapiannotation.model.ProductEvent;
 import com.wiredbraincoffee.productapiannotation.repository.ProductRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
